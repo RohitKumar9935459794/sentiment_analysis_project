@@ -1,0 +1,17 @@
+Here are some custom review examples (balanced between positive and negative sentiments) that you can use to test your model:
+
+### Positive Reviews:
+1. **"I absolutely loved this movie! The storyline was captivating, and the performances were outstanding."**
+2. **"This is one of the best shows I've seen in years. It kept me hooked from start to finish!"**
+3. **"A masterpiece! The direction and cinematography are nothing short of brilliant."**
+4. **"An incredible experience – the plot twists were mind-blowing, and the characters felt so real."**
+5. **"Beautifully written and executed. A perfect blend of humor and emotion."**
+
+### Negative Reviews:
+1. **"This movie was a complete waste of time. The plot was predictable and boring."**
+2. **"I couldn't even finish watching it. The acting was terrible, and the dialogue felt forced."**
+3. **"The story made no sense, and the characters were unrelatable and dull."**
+4. **"A disappointing attempt at creating drama. It lacked depth and originality."**
+5. **"I regret watching this. It was too long and utterly pointless."**
+
+You can input these reviews into your trained model to check if it classifies them correctly. Let me know if you need help implementing this!
